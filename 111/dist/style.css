@@ -1,1 +1,58 @@
-body{background:#167c9c}
+body{background:#ff0000}
+HTML
+<html>
+
+  <HEAD> <!----註：從這裡是抬頭部份的開始 ----->
+
+<TITLE>html作業</TITLE> <!---註：這是網頁主題--->
+
+  </HEAD> <!----註：從這裡是抬頭部份的結束 ----->
+
+    <BODY> <!----註：從這裡是本文部份的開始 ----->
+  測試
+  <p align="center">123</p>
+  <H2>RSSH</H2>
+  <u><H3>204 13</H3></u>
+  <p>3.<註解></p>
+  <span>4.段落</span>
+  <div>5.容器</div>
+  <p align="center">6.置中</p>
+  <p align="right">7.靠右</p>
+  <marquee direction="right" bgcolor="#0b966f">我愛瑞祥與國立</marquee>
+  <hr size="10" align="center" noshade width="80%" color="#7777ff" >
+
+<br></br>
+    </BODY> <!----註：從這裡是本文部份的結束 ----->
+</html>
+
+
+
+
+
+
+
+
+CSS
+body {background:#008000}
+
+p{
+
+  background-color: #8ce600;
+
+  padding-top:100px;
+
+  padding-left:100px;
+
+  padding-right:100px;
+
+  padding-bottom:100px;
+
+  margin-top:200px;
+
+  margin-left:200px;
+
+  margin-right:200px;
+
+  margin-bottom:200px;  
+
+}
