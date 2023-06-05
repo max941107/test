@@ -1,29 +1,41 @@
-body{background:#ff0000}
-HTML
-<html>
+body{background:#0088A8}
 
-  <HEAD> <!----註：從這裡是抬頭部份的開始 ----->
+p{ 
 
-<TITLE>html作業</TITLE> <!---註：這是網頁主題--->
+  background-color: #46A3FF;
 
-  </HEAD> <!----註：從這裡是抬頭部份的結束 ----->
+  padding-top:100px; 
 
-    <BODY> <!----註：從這裡是本文部份的開始 ----->
-  測試
-  <p align="center">123</p>
-  <H2>RSSH</H2>
-  <u><H3>204 13</H3></u>
-  <p>3.<註解></p>
-  <span>4.段落</span>
-  <div>5.容器</div>
-  <p align="center">6.置中</p>
-  <p align="right">7.靠右</p>
-  <marquee direction="right" bgcolor="#0b966f">我愛瑞祥與國立</marquee>
-  <hr size="10" align="center" noshade width="80%" color="#7777ff" >
+  padding-left:100px; 
 
-<br></br>
-    </BODY> <!----註：從這裡是本文部份的結束 ----->
-</html>
+  padding-right:100px; 
+
+  padding-bottom:100px; 
+
+  margin-top:100px; 
+
+  margin-left:500px; 
+
+  margin-right:500px; 
+
+  margin-bottom:100px;   
+
+}
+.video-back{ 
+
+position:fixed;
+
+top:0;   
+
+left:0;
+
+min-width:100%;
+
+min-height:100%;
+
+z-index:-1;  
+
+}
 
 
 

@@ -1,1 +1,7 @@
-document.write("HELLO 我是陳威中")
+var count = 0;
+    var counterElement = document.getElementById("counter");
+
+    function increment() {
+      count+=2;
+      counterElement.textContent = count;
+    }
